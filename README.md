@@ -9,3 +9,7 @@
 Add a description here.
 
 <p align="center"><strong>Note: This is a developer documentation.</strong><br />The user documentation for ContainerSSH is located at <a href="https://containerssh.github.io">containerssh.github.io</a>.</p>
+
+## Todo
+
+Once you have this repository forked you should [enable the LGTM integration](https://lgtm.com/dashboard).
