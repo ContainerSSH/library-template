@@ -15,6 +15,6 @@ Add a description here.
 - [ ] Update `README.md` with description and new badge links.
 - [ ] Rename the `.github-template` folder to `.github`.
 - [ ] [Enable the LGTM integration](https://lgtm.com/dashboard).
-- [ ] Write code
-- [ ] Write tests
+- [ ] Write code.
+- [ ] Write tests.
 - [ ] Write developer documentation.
