@@ -12,7 +12,7 @@ Add a description here.
 
 ## Todo 
 
-[ ] Update `README.md` with description and new badge links.
-[ ] Rename the `.github-template` folder to `.github`.
-[ ] [Enable the LGTM integration](https://lgtm.com/dashboard).
-[ ] Write developer documentation.
+- [ ] Update `README.md` with description and new badge links.
+- [ ] Rename the `.github-template` folder to `.github`.
+- [ ] [Enable the LGTM integration](https://lgtm.com/dashboard).
+- [ ] Write developer documentation.
