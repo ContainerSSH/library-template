@@ -10,9 +10,11 @@ Add a description here.
 
 <p align="center"><strong>Note: This is a developer documentation.</strong><br />The user documentation for ContainerSSH is located at <a href="https://containerssh.github.io">containerssh.io</a>.</p>
 
-## Todo 
+## TODO after using this template 
 
 - [ ] Update `README.md` with description and new badge links.
 - [ ] Rename the `.github-template` folder to `.github`.
 - [ ] [Enable the LGTM integration](https://lgtm.com/dashboard).
+- [ ] Write code
+- [ ] Write tests
 - [ ] Write developer documentation.
