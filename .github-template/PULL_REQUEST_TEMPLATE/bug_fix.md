@@ -4,7 +4,6 @@ about: Fix a bug
 title: ''
 labels: bug
 assignees: janoszen
-
 ---
 
 ## Please describe the bug you have fixed
