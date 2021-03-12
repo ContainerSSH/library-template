@@ -7,28 +7,23 @@ assignees: janoszen
 
 ---
 
-<details>
-<summary><h2>Describe the bug</h2></summary>
-A clear and concise description of what the bug is.
-</details>
+## Describe the bug
 
-<details>
-<summary><h2>To Reproduce</h2></summary>
+A clear and concise description of what the bug is.
+
+## To Reproduce
+
 1. Run containerssh with these parameters
 2. Do something else...
 3. ...
-</details>
 
-<details>
-<summary><h2>Expected behavior</h2></summary>
+## Expected behavior
 A clear and concise description of what you expected to happen.
-</details>
 
-<details>
-<summary><h2>Version</h2></summary>
+## Version
+
 Please insert the output of `go version` here:
 ```
 $ go version
 ...
 ```
-</details>
